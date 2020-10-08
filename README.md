@@ -1,0 +1,2 @@
+# cassandra-model
+cassandra-model
